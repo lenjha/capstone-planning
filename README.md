@@ -2,6 +2,7 @@
 
 ## Project Description
 ![capstone proposal sheet](img/http://capstone-proposal.png)
+
 A virtual pet simulator and crafting game on the browser, using ReactJS.  Currenting a work-in-progress.
 
 ## Planning Stage Google Slides
